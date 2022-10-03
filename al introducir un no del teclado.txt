@@ -1,0 +1,14 @@
+Algoritmo detarea
+Definir x Como Entero
+Definir n, suma Como Real
+  suma = 0
+ Para x = 1 Hasta 10 Con Paso 1 Hacer
+Escribir "Ingresa un número"
+leer n
+	 suma = suma + n
+
+    
+FinPara
+ Escribir «La suma de los 10 numeros es: «, suma            
+
+FinAlgoritmo

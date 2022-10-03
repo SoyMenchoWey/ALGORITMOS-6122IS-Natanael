@@ -1,0 +1,11 @@
+Algoritmo sin_titulo
+	definir h  Como Real
+	definir b Como Real
+	escribir "ingrese la base";
+	leer b
+	escribir "ingrese la altura";
+	leer h
+	a=h*b/2;
+	escribir "el area del triangulo es " a;
+	
+FinAlgoritmo

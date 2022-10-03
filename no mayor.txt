@@ -1,0 +1,24 @@
+Algoritmo sin_titulo
+	Definir a Como Real
+	Escribir 'ingresa el primer numero'
+	Leer a
+	Definir b Como Real
+	Escribir 'ingresa el segundo numero'
+	Leer b
+	Definir c Como Real
+	Escribir 'ingresa el tercer numero'
+	Leer c
+	Si a>b Entonces
+		Si a>c Entonces
+			Escribir 'el mayor es el',a
+		SiNo
+			Escribir "el numero mayor es el" b
+		FinSi
+	SiNo
+		Si b>c Entonces
+			Escribir 'el mayor es el',b
+		SiNo
+			Escribir 'el mayor es el ',c
+		FinSi
+	FinSi
+FinAlgoritmo

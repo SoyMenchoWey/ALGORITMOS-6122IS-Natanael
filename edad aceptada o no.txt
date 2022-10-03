@@ -1,0 +1,10 @@
+ var e=17;
+var a=1.72;
+if(e>=18 && a>=1.50)
+{
+    console.log("aceptado");
+}
+else
+{
+    console.log("rechazado");
+}
